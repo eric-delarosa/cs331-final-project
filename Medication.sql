@@ -1,3 +1,5 @@
+
+--@block
 CREATE TABLE Medication(
     TradeName VARCHAR(255) PRIMARY KEY NOT NULL,
     Stock INT NOT NULL,

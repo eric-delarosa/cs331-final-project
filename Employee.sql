@@ -1,3 +1,4 @@
+
 CREATE TABLE Employee(
     id INT PRIMARY KEY NOT NULL,
     name_last VARCHAR(255) NOT NULL,

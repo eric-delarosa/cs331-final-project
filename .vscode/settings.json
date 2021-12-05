@@ -1,0 +1,45 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "127.0.0.1",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "localhost",
+            "database": "schoolwork",
+            "username": "root",
+            "password": "SQL6224=",
+            "connectionTimeout": 15
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "prophet.njit.edu",
+            "port": 1521,
+            "driver": "MySQL",
+            "name": "Fall2021",
+            "database": "course",
+            "username": "edd8",
+            "password": "Sql6221998=",
+            "connectionTimeout": 28800
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "Final Project",
+            "database": "Hospital",
+            "username": "root",
+            "password": "SQL6224="
+        }
+    ]
+}
